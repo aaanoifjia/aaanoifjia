@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a game called HuzulnutTown using Godot and C# .Net
 - 🌱 I’m currently learning Computer Graphics.
-- 👯 I’m looking to collaborate on fun stuff.
+- 👯 I’m looking to collaborate on rpg game!
 - 💬 Ask me about: How to build an dynamic web. 
 - ⚡ Fun fact: I have a bird.
