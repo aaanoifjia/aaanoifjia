@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 - 🔭 I built a AI-Summary tool during my last job. check briefy.ai. 
 - 👯 I’m looking to collaborate on rpg game!
 - 💬 Ask me about: "How to build a modern website?"
-- ⚡ Fun fact: I have a bird.
+
+  ### My projects:
+  - Bo Simulator
+  - Warn before quit app
+  - Hazulnut Town
