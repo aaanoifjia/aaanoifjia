@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 ### now working on:
 - ✨learning computer graphics!
-
 - 
 ### 🔧 Tool box:
 
