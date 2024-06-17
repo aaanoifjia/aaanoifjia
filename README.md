@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I built a AI-Summary tool during my last job. check briefy.ai. 
+- 🔭 I built a AI-Summary tool during my last job. Check briefy.ai. 
 - 👯 I’m looking to collaborate on rpg game!
 - 💬 Ask me about: "How to build a modern website?"
 
