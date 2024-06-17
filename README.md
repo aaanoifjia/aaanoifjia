@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on rpg game!
 - 💬 Ask me about: "How to build a modern website?"
 
-  ### My projects:
-  - Bo Simulator
-  - Warn before quit app
-  - Hazulnut Town
+### my projects:
+- Bo Simulator
+- Warn before quit app
+- Hazulnut Town
+
+## now working on:
+- learning computer graphics!
