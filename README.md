@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about: "How to build a modern website?"
 
 ### my projects:
-- Bo Simulator
-- Warn before quit app
-- Hazulnut Town
+- 🎵Bo Simulator
+- 📲 Warn before quit app
+- 🌰 Hazulnut Town
 
-## now working on:
-- learning computer graphics!
+### now working on:
+- ✨learning computer graphics!
