@@ -25,3 +25,12 @@ Here are some ideas to get you started:
 
 ### now working on:
 - ✨learning computer graphics!
+
+- 
+### 🔧 Tool box:
+
+[<img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg' height='40'>](https://cplusplus.com/)
+[<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' height='40'>](https://www.python.org/)
+ [<img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' height='40'>](https://react.dev/)
+ [<img src='[https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg](https://www.solidjs.com/)
+
