@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 ### now working on:
 - ✨learning computer graphics!
-- 
 ### 🔧 Tool box:
 
 [<img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg' height='40'>](https://cplusplus.com/)
