@@ -31,6 +31,3 @@ Here are some ideas to get you started:
 [<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' height='40'>](https://www.python.org/)
 [<img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' height='40'>](https://react.dev/)
 [<img src='https://github.com/devicons/devicon/blob/master/icons/solidjs/solidjs-original.svg' height='40'>](https://www.solidjs.com/)
-[<img src='https://github.com/devicons/devicon/blob/master/icons/solidjs/solidjs-original.svg' height='40'>](https://www.solidjs.com/)
-
-
