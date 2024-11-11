@@ -1,5 +1,7 @@
 ## Hi, I am Fiona. 
+I am currently an undergraduate student at University of Waterloo, seaking a 4/8 month co-op job starting from Jan!
 
+[Bo Simulator](https://aaanoifjia.github.io/index.html)
 <!--
 **aaanoifjia/aaanoifjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### my projects:
-- 🎵Bo Simulator
-- 📲 Warn before quit app
-- 🌰 Hazulnut Town
-
 ### 🔧 Tool box:
 
 [<img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg' height='40'>](https://cplusplus.com/)
