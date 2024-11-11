@@ -1,7 +1,5 @@
-## Hi, I am Fiona. 
-I am currently an undergraduate student at University of Waterloo, seaking a 4/8 month co-op job starting from Jan!
-
-[Bo Simulator](https://aaanoifjia.github.io/index.html)
+## Hi, I am Fiona.
+My personal website is still in progress but you can play with my launched [Bo Simulator](https://aaanoifjia.github.io/index.html) here. 
 <!--
 **aaanoifjia/aaanoifjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-### 🔧 Tool box:
-
-[<img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg' height='40'>](https://cplusplus.com/)
-[<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' height='40'>](https://www.python.org/)
-[<img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' height='40'>](https://react.dev/)
-[<img src='https://github.com/devicons/devicon/blob/master/icons/solidjs/solidjs-original.svg' height='40'>](https://www.solidjs.com/)
+--
